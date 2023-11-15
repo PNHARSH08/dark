@@ -1,0 +1,17 @@
+                                  NOTEPAD SHORTCUT KEYS
+
+NEW TAB = CTRL+N                                      FIND NEXT = F3
+NEW WINDOW = CTRL+SHIFT+N                FIND PREVIOUS = SHIFT+F3 
+OPEN = CTRL+O                                            REPLACE = CTRL + H
+SAVE = CTRL+S                                             GO TO = CTRL+G
+SAVE AS = CTRL+SHIFT+S                           SELECT ALL = CTRL+A
+SAVE ALL = CTRL+ALT+S                             TIME/DATE = F5
+PRINT = CTRL+P                                            ZOOM IN = CTRL+PLUS 
+CLOSE TAB = CTRL+W                                 ZOOM OUT = CTRL+MINUS
+CLOSE WINDOWS = CTRL+SHIFT+W        DEFAULT ZOOM = CTRL+O
+UNDO = CTRL+Z                                            
+COPY = CTRL+C
+CUT = CTRL+X
+PASTE = CTRL+V
+DELETE = DEL
+FIND = CTRL+F
